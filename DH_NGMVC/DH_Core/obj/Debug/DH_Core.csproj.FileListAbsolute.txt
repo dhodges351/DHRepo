@@ -1,0 +1,6 @@
+C:\Users\Bob\Documents\Visual Studio 2017\Projects\DHRepo\DH_NGMVC\DH_Core\bin\Debug\DH_Core.dll
+C:\Users\Bob\Documents\Visual Studio 2017\Projects\DHRepo\DH_NGMVC\DH_Core\bin\Debug\DH_Core.pdb
+C:\Users\Bob\Documents\Visual Studio 2017\Projects\DHRepo\DH_NGMVC\DH_Core\obj\Debug\DH_Core.csprojAssemblyReference.cache
+C:\Users\Bob\Documents\Visual Studio 2017\Projects\DHRepo\DH_NGMVC\DH_Core\obj\Debug\DH_Core.csproj.CoreCompileInputs.cache
+C:\Users\Bob\Documents\Visual Studio 2017\Projects\DHRepo\DH_NGMVC\DH_Core\obj\Debug\DH_Core.dll
+C:\Users\Bob\Documents\Visual Studio 2017\Projects\DHRepo\DH_NGMVC\DH_Core\obj\Debug\DH_Core.pdb
